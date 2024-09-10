@@ -1,12 +1,3 @@
-# FEEL THE POWER OF TS BRAND
-#THIS TOOL FUCKED BY SATISH
-#ENJOY KRO GUYS 
-#LOGO AUR NAME EDIT KRKE APNA BNA LO
-
-
-
-
-
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
@@ -1366,5 +1357,3 @@ def Subscraption():
                 print(logo)
                 Subscraption()
 Main()
-
-[Program finished]
